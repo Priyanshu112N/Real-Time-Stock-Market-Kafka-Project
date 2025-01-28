@@ -2,7 +2,7 @@
 
 Introduction: 
 
-In this project, we will build and execute an End-To-End Data Project on Real-Time Stock Market Data using Apache Kafka. Biggest issue faced while building this project when I was connecting to EC2 from command line(CLI): Issues such as - permission’s error, username error, I had to remove unnecessary permission’s.
+In this project, I had build and execute an End-To-End Data Project on Real-Time Stock Market Data using Apache Kafka. Biggest issue faced while building this project when I was connecting to EC2 from command line(CLI): Issues such as - permission’s error, username error, I had to remove unnecessary permission’s.
 Different technologies used - Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 Key Insights:
