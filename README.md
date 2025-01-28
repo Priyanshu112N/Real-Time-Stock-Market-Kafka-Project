@@ -27,4 +27,5 @@ Key Insights:
 5. EC2
 - Apache Kafka
 
+MIND MAP for overview of technologies and understanding -
  ![image](https://github.com/user-attachments/assets/5efa8749-7a7c-4b02-9b7d-71ab7f76c38f)
